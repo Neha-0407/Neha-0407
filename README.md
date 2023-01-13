@@ -11,6 +11,16 @@
 [![Github](https://img.shields.io/github/followers/Neha-0407?label=Follow&style=social)](https://github.com/Neha-0407)
 
 
+<h2> Technology Stack </h2>
+<a href= https://github.com/Neha-0407?tab=repositories&q=&type=&language=html&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/html.svg'> </a>&nbsp;&nbsp;
+<a href= https://github.com/Neha-0407?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/css.svg'> </a>&nbsp;&nbsp;
+<a href= https://github.com/Neha-0407?tab=repositories&q=&type=&language=javascript&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/javascript.svg'> </a>&nbsp;&nbsp;
+<a href= https://github.com/Neha-0407?tab=repositories&q=&type=&language=python&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/python.svg'> </a>&nbsp;&nbsp;
+<a href= https://github.com/Neha-0407?tab=repositories&q=&type=&language=c&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/c.svg'> </a>&nbsp;&nbsp;
+<a href= https://github.com/Neha-0407?tab=repositories&q=&type=&language=cpp&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/cpp.svg'> </a>&nbsp;&nbsp;
+<a href= https://github.com/Neha-0407?tab=repositories&q=&type=&language=scikit&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/scikit.svg'> </a>&nbsp;&nbsp;
+
+
 <h2> Social Media Links</h2>
 <a href = 'https://www.linkedin.com/in/neha-pandey-5542b6214/'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/linked-in-alt.svg"/></a> 
 <a href = 'https://neha-0407.github.io/Portfolio/index.html'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/portfolio.png"/></a> 
@@ -54,19 +64,6 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about Sql, Python, Embeded C, JavaScript.
   
 - ⚡ Fact: " US Frontie " is the world's fastest supercomputer 2022.
-
-<h2> Skills <img src = "https://github.com/noob-starter/Images/blob/main/giphy.webp" width = 30px> </h2>
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=python&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/python.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/reactjs.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=javascript&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/javascript.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=scikit&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/scikit.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=c&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/c.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=cpp&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/cpp.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/sqlite.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/pytorch.svg'> </a>&nbsp;&nbsp;   
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=css&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/css.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=html&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/html.svg'> </a>&nbsp;&nbsp;
-<a href= https://github.com/noob-starter?tab=repositories&q=&type=&language=android&sort= > <img width ='60px' src ='https://github.com/noob-starter/Images/blob/main/android.svg'> </a>
 
 <h2> Connect with me <img src='https://github.com/noob-starter/Images/blob/main/handshake.gif' width="100px"> </h2>
 <a href = ''> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/linked-in-alt.svg"/></a> 
