@@ -2,6 +2,7 @@
 
 <h2>About Me</h2>
 - 🔭 I’m currently working on projects based on web development and machine learning .
+<br>
 - 🌱 I’m currently learning javascript, C# and other emerging new technologies.
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Neha-0407.Neha-0407)
@@ -26,7 +27,7 @@
 <a href = 'https://codeforces.com/profile/pandeynj'> <img width = '32px' align= 'center' src="https://github.com/Neha-0407/Neha-0407/blob/main/codeforces.svg"/></a>
 <a href = 'https://leetcode.com/neha_0407/'> <img width = '32px' align= 'center' src="https://github.com/Neha-0407/Neha-0407/blob/main/leetcode.png"/></a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neha-0407&theme=tokyonight)
+![Neha Pandey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neha-0407&theme=tokyonight)
 
 <!---
 noob-starter/noob-starter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
