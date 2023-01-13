@@ -1,5 +1,5 @@
 ### Hi there 👋,Myself Neha Pandey
-
+---------------------------------------------------------------------------------
 
 ### About Me
 -------------------------------------------------------------------------------------------
@@ -11,7 +11,7 @@
 [![Github](https://img.shields.io/github/followers/Neha-0407?label=Follow&style=social)](https://github.com/Neha-0407)
 
 
-<h2> Connect with me <img src='https://github.com/noob-starter/Images/blob/main/handshake.gif' width="100px"> </h2>
+<h2> Social Media Links</h2>
 <a href = 'https://www.linkedin.com/in/neha-pandey-5542b6214/'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/linked-in-alt.svg"/></a> 
 <a href = 'https://neha-0407.github.io/Portfolio/index.html'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/portfolio.png"/></a> 
 <a href = 'https://www.github.com/Neha-0407'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/github.svg"/></a>
