@@ -11,6 +11,12 @@
 [![Github](https://img.shields.io/github/followers/Neha-0407?label=Follow&style=social)](https://github.com/Neha-0407)
 
 
+<h2> Connect with me <img src='https://github.com/noob-starter/Images/blob/main/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/neha-pandey-5542b6214/'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/linked-in-alt.svg"/></a> 
+<a href = 'https://neha-0407.github.io/Portfolio/index.html'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/portfolio.png"/></a> 
+<a href = 'https://www.github.com/Neha-0407'> <img width = '32px' align= 'center' src="https://github.com/noob-starter/Images/blob/main/github.svg"/></a>
+
+
 
 <!---
 noob-starter/noob-starter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -79,14 +85,4 @@ You can click the Preview link to take a look at your changes.
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob-starter&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=noob-starter&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
-Credits: [Pratik Yawalkar](https://github.com/noob-starter)
-
-Last Edited on: 18/09/2022
 -->
