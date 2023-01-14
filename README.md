@@ -24,7 +24,6 @@
 <a href = 'https://codeforces.com/profile/pandeynj'> <img width = '32px' align= 'center' src="https://github.com/Neha-0407/Neha-0407/blob/main/codeforces.svg"/></a>
 <a href = 'https://leetcode.com/neha_0407/'> <img width = '32px' align= 'center' src="https://github.com/Neha-0407/Neha-0407/blob/main/leetcode.png"/></a>
 
-<h2>Github Stats</h2>
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Neha-0407.Neha-0407)
 [![Github](https://img.shields.io/github/followers/Neha-0407?label=Follow&style=social)](https://github.com/Neha-0407)
 ![Neha Pandey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neha-0407&theme=tokyonight)
