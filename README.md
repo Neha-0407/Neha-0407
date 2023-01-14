@@ -1,11 +1,14 @@
 <h2>Hi there 👋,Myself Neha Pandey</h2>
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Neha-0407.Neha-0407)
+[![Github](https://img.shields.io/github/followers/Neha-0407?label=Follow&style=social)](https://github.com/Neha-0407)
+
+
 <h2>About Me</h2>
 - 🔭 I’m currently working on projects based on web development and machine learning .
 <br>
 - 🌱 I’m currently learning javascript, C# and other emerging new technologies.
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Neha-0407.Neha-0407)
-[![Github](https://img.shields.io/github/followers/Neha-0407?label=Follow&style=social)](https://github.com/Neha-0407)
+
 
 
 <h2> Technology Stack </h2>
